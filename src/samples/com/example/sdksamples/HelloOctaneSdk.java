@@ -60,7 +60,7 @@ public class HelloOctaneSdk {
             for (Tag t : tags) {
 
                 String epc = t.getEpc().toString();
-//                System.out.println(t);
+                System.out.println(epc);
 
             }
         }
