@@ -10,6 +10,7 @@ public class HelloOctaneSdk {
     public static void main(String[] args) {
 
         try {
+            System.out.println(Arrays.toString(args));
             String hostname = "192.168.1.127";
 
             if (hostname == null) {
@@ -25,6 +26,27 @@ public class HelloOctaneSdk {
 
             // Get the default settings
             Settings settings = reader.queryDefaultSettings();
+
+            ReportConfig report = settings.getReport();
+            report.setIncludeAntennaPortNumber(true);
+
+            report.setMode(ReportMode.Individual);
+
+            // The reader can be set into various modes in which reader
+            // dynamics are optimized for specific regions and environments.
+            // The following mode, AutoSetDenseReader, monitors RF noise and interference and then automatically
+            // and continuously optimizes the reader's configuration
+            settings.setReaderMode(ReaderMode.AutoSetDenseReader);
+
+            // set some special settings for antenna 1
+            AntennaConfigGroup antennas = settings.getAntennas();
+            antennas.disableAll();
+            antennas.enableById(new short[]{3});
+            antennas.getAntenna((short) 3).setIsMaxRxSensitivity(false);
+            antennas.getAntenna((short) 3).setIsMaxTxPower(false);
+            antennas.getAntenna((short) 3).setTxPowerinDbm(20.0);
+            antennas.getAntenna((short) 3).setRxSensitivityinDbm(-70);
+
 
             // Apply the new settings
             reader.applySettings(settings);
@@ -65,4 +87,6 @@ public class HelloOctaneSdk {
             }
         }
     }
+
+
 }

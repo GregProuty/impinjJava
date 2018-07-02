@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="impinja:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/impinja_jar</output-path>
+    <root id="archive" name="Octane.jar">
+      <element id="module-output" name="Octane" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/OctaneSDKJava-1.30.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/OctaneSDKJava-1.30.0.0-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="library" level="project" name="samples" />
+    </root>
+  </artifact>
+</component>

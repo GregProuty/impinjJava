@@ -1,14 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="impinja:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ef5718d0-677f-4523-8adb-b5aa0e4c1a1e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/impinja_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Octane.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Octane.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/TagReportListenerImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/TagReportListenerImplementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk$ReportTags.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk$ReportTags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/AdvancedGPO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/AntennaChangeListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/BlockPermalock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/BufferOverflowListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/BufferWarningListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/BulkReadWrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ConfigureManyAntennas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ConnectionAttemptListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ConnectionLostListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/DisconnectedOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/FilteredTagReportListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/GpiChangeListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/KeepAliveListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/Keepalives.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/KillTags.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/LocationReportListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/LockUserMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/LowDutyCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/MarginRead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/MultipleReaders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/OptimizedRead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/QT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/QueryReaderSettings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/QueryStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadFastId.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadTagsFiltered.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadTagsGpiTrigger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadTagsOverTLS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadTagsPeriodicTrigger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadUserMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReaderEvents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReaderStartListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReaderStopListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReducedPowerFrequencies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/RfDoppler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/RshellExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/RxSensitivityRamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SampleProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SetGPO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SetReaderModes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SetTxFrequencies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SoftwareFiltering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderDirection$DirectionReportListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderDirection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderFeatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocationMulti$DiagnosticsReportListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocationMulti$LocationReportListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocationMulti$SpatialReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocationMulti$TagReadInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocationMulti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/TagOpCompleteListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/TagReportListenerImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/TxPowerRamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/WaitForQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/WriteEpc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/WriteUserMemory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/samples/com/example/sdksamples/TagReportListenerImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/samples/com/example/sdksamples/TagReportListenerImplementation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +82,8 @@
       <file leaf-file-name="HelloOctaneSdk.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-431">
-              <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            <state relative-caret-position="914">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,8 +114,8 @@
         <option value="$PROJECT_DIR$/src/samples/com/example/sdksamples/onTagReported.java" />
         <option value="$PROJECT_DIR$/src/samples/com/example/sdksamples/ReportTags.java" />
         <option value="$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java" />
-        <option value="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" />
         <option value="$PROJECT_DIR$/src/samples/com/example/sdksamples/TagReportListenerImplementation.java" />
+        <option value="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" />
       </list>
     </option>
   </component>
@@ -95,9 +154,7 @@
             </path>
             <path>
               <item name="impinjJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="impinjJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -112,7 +169,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -133,8 +190,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HelloOctaneSdk">
     <configuration name="HelloOctaneSdk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="samples.com.example.sdksamples.HelloOctaneSdk" />
       <module name="Octane" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -164,6 +222,30 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="JAR" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-X" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -186,6 +268,10 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Maven.JAR" />
+      <item itemvalue="Application.HelloOctaneSdk" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HelloOctaneSdk" />
@@ -208,12 +294,12 @@
       <workItem from="1530041722899" duration="103000" />
       <workItem from="1530134340727" duration="2675000" />
       <workItem from="1530212415824" duration="307000" />
-      <workItem from="1530213423374" duration="1712000" />
+      <workItem from="1530213423374" duration="8285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15404000" />
+    <option name="totallyTimeSpent" value="21977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="799" extended-state="6" />
@@ -224,15 +310,15 @@
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5083333" side_tool="true" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.60694444" side_tool="true" visible="true" weight="0.3089655" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49166667" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.39305556" weight="0.3075862" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22430556" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.31875" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -582,8 +668,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-431">
-          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state relative-caret-position="914">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -596,10 +682,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>impinja:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -630,7 +718,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>Kotlin SDK</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
