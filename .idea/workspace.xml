@@ -9,7 +9,7 @@
     <list default="true" id="ef5718d0-677f-4523-8adb-b5aa0e4c1a1e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/impinja_jar/Octane.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/impinja_jar/Octane.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk$ReportTags.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk$ReportTags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/impinja_jar/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/impinja_jar/command.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" afterDir="false" />
     </list>
@@ -26,8 +26,8 @@
       <file leaf-file-name="HelloOctaneSdk.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="84">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,6 +82,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,7 +121,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -259,12 +259,13 @@
       <workItem from="1530213423374" duration="8285000" />
       <workItem from="1531170857703" duration="244000" />
       <workItem from="1531181663577" duration="341000" />
-      <workItem from="1531182081977" duration="519000" />
+      <workItem from="1531182081977" duration="2482000" />
+      <workItem from="1531191821479" duration="486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23081000" />
+    <option name="totallyTimeSpent" value="25530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="0" width="1080" height="1920" extended-state="6" />
@@ -282,7 +283,7 @@
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3384913" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.35203093" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="0" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
@@ -461,8 +462,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="84">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

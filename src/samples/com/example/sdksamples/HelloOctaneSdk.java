@@ -5,13 +5,15 @@ import com.impinj.octane.*;
 import java.util.Scanner;
 import java.util.*;
 
+
+
 public class HelloOctaneSdk {
 
     public static void main(String[] args) {
 
         try {
 
-            System.out.println(Arrays.toString(args));
+//            System.out.println(Arrays.toString(args));
             String hostname = args[0];
 
             if (hostname == null) {
