@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/impinja_jar/Octane.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/impinja_jar/Octane.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/impinja_jar/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/impinja_jar/command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk$ReportTags.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk$ReportTags.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" afterDir="false" />
     </list>
@@ -26,8 +27,8 @@
       <file leaf-file-name="HelloOctaneSdk.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="855">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,6 +83,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -122,7 +124,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,17 +262,23 @@
       <workItem from="1531181663577" duration="341000" />
       <workItem from="1531182081977" duration="2482000" />
       <workItem from="1531191821479" duration="486000" />
+      <workItem from="1531192541775" duration="651000" />
+      <workItem from="1531252858518" duration="3287000" />
+      <workItem from="1531257448034" duration="494000" />
+      <workItem from="1531258098007" duration="353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25530000" />
+    <option name="totallyTimeSpent" value="30315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="0" width="1080" height="1920" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.48055556" weight="0.23586208" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -283,7 +290,7 @@
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.35203093" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3433269" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="0" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
@@ -294,7 +301,6 @@
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.48055556" weight="0.23586208" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -462,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="855">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
