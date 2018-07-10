@@ -7,66 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef5718d0-677f-4523-8adb-b5aa0e4c1a1e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/impinja_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/AdvancedGPO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/AntennaChangeListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/BlockPermalock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/BufferOverflowListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/BufferWarningListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/BulkReadWrite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ConfigureManyAntennas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ConnectionAttemptListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ConnectionLostListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/DisconnectedOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/FilteredTagReportListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/GpiChangeListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/KeepAliveListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/Keepalives.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/KillTags.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/LocationReportListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/LockUserMemory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/LowDutyCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/MarginRead.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/MultipleReaders.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/OptimizedRead.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/QT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/QueryReaderSettings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/QueryStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadFastId.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadTagsFiltered.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadTagsGpiTrigger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadTagsOverTLS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadTagsPeriodicTrigger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReadUserMemory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReaderEvents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReaderStartListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReaderStopListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/ReducedPowerFrequencies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/RfDoppler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/RshellExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/RxSensitivityRamp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SampleProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SetGPO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SetReaderModes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SetTxFrequencies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SoftwareFiltering.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderDirection$DirectionReportListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderDirection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderFeatures.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocationMulti$DiagnosticsReportListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocationMulti$LocationReportListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocationMulti$SpatialReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocationMulti$TagReadInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/SpatialReaderLocationMulti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/TagOpCompleteListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/TagReportListenerImplementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/TxPowerRamp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/WaitForQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/WriteEpc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/com/example/sdksamples/WriteUserMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/impinja_jar/Octane.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/impinja_jar/Octane.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk$ReportTags.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk$ReportTags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -82,8 +26,8 @@
       <file leaf-file-name="HelloOctaneSdk.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="914">
-              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,24 +72,40 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="799" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2590" />
+    <option name="width" value="1050" />
+    <option name="height" value="994" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="impinjJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="impinjJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="impinjJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="impinjJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="impinjJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="impinjJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="impinjJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="impinjJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="impinja_jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="impinjJava" type="b2602c69:ProjectViewProjectNode" />
@@ -160,6 +120,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -295,44 +257,47 @@
       <workItem from="1530134340727" duration="2675000" />
       <workItem from="1530212415824" duration="307000" />
       <workItem from="1530213423374" duration="8285000" />
+      <workItem from="1531170857703" duration="244000" />
+      <workItem from="1531181663577" duration="341000" />
+      <workItem from="1531182081977" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21977000" />
+    <option name="totallyTimeSpent" value="23081000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="799" extended-state="6" />
+    <frame x="2560" y="0" width="1080" height="1920" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.48055556" weight="0.23586208" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.60694444" side_tool="true" visible="true" weight="0.3089655" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.60694444" side_tool="true" visible="true" weight="0.12912242" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.39305556" weight="0.3075862" />
       <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.39305556" weight="0.3075862" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.31875" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3384913" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Learn" order="0" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info id="Learn" order="0" />
+      <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.48055556" weight="0.23586208" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,13 +322,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="78" lean-forward="true" selection-start-line="5" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java" />
     <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -374,30 +333,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/onTagReported.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" selection-start-line="4" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTagsFiltered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="70" column="53" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/onTagReported.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTagsFiltered.java" />
     <entry file="file://$PROJECT_DIR$/Octane.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/SpatialReaderFeatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/SpatialReaderFeatures.java" />
     <entry file="jar://$PROJECT_DIR$/src/lib/OctaneSDKJava-1.30.0.0.jar!/com/impinj/octane/AntennaChangeListener.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -405,27 +346,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/AntennaChangeListenerImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReducedPowerFrequencies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/AntennaChangeListenerImplementation.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReducedPowerFrequencies.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java" />
     <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -436,30 +359,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/onTagReported.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTagsFiltered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="70" column="53" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/onTagReported.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTagsFiltered.java" />
     <entry file="file://$PROJECT_DIR$/Octane.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/SpatialReaderFeatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/SpatialReaderFeatures.java" />
     <entry file="jar://$PROJECT_DIR$/src/lib/OctaneSDKJava-1.30.0.0.jar!/com/impinj/octane/AntennaChangeListener.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -467,27 +372,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/AntennaChangeListenerImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReducedPowerFrequencies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/AntennaChangeListenerImplementation.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReducedPowerFrequencies.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java" />
     <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -498,19 +385,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTagsFiltered.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTagsFiltered.java" />
     <entry file="file://$PROJECT_DIR$/Octane.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/SpatialReaderFeatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/SpatialReaderFeatures.java" />
     <entry file="jar://$PROJECT_DIR$/src/lib/OctaneSDKJava-1.30.0.0.jar!/com/impinj/octane/AntennaChangeListener.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -518,27 +397,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/AntennaChangeListenerImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReducedPowerFrequencies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="66" selection-start-line="66" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/AntennaChangeListenerImplementation.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReducedPowerFrequencies.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java" />
     <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -549,13 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/SpatialReaderFeatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/SpatialReaderFeatures.java" />
     <entry file="jar://$PROJECT_DIR$/src/lib/OctaneSDKJava-1.30.0.0.jar!/com/impinj/octane/AntennaChangeListener.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -563,29 +418,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/AntennaChangeListenerImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReducedPowerFrequencies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/AntennaChangeListenerImplementation.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReducedPowerFrequencies.java" />
     <entry file="file://$PROJECT_DIR$/src/HelloOctaneSdk.java" />
     <entry file="file://$PROJECT_DIR$/src/Octane_SDK_Java_1_30_0_0/samples/com/example/sdksamples/HelloOctaneSdk.java" />
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReducedPowerFrequencies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReducedPowerFrequencies.java" />
     <entry file="jar://$PROJECT_DIR$/src/lib/OctaneSDKJava-1.30.0.0.jar!/com/impinj/octane/AntennaChangeListener.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -596,20 +433,8 @@
     <entry file="file://$PROJECT_DIR$/Octane.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/SpatialReaderFeatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/onTagReported.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" selection-start-line="4" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/SpatialReaderFeatures.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/onTagReported.java" />
     <entry file="jar://$PROJECT_DIR$/src/lib/OctaneSDKJava-1.30.0.0-jar-with-dependencies.jar!/com/impinj/octane/TagReportListener.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -617,44 +442,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTagsFiltered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="70" column="53" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/AntennaChangeListenerImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReportTags.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="78" selection-start-line="5" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ConnectionAttemptListenerImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/TagReportListenerImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-507">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTagsFiltered.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/AntennaChangeListenerImplementation.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReportTags.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ReadTags.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/ConnectionAttemptListenerImplementation.java" />
+    <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/TagReportListenerImplementation.java" />
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -668,8 +461,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="914">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

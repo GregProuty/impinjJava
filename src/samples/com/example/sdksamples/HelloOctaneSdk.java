@@ -10,8 +10,9 @@ public class HelloOctaneSdk {
     public static void main(String[] args) {
 
         try {
+
             System.out.println(Arrays.toString(args));
-            String hostname = "192.168.1.127";
+            String hostname = args[0];
 
             if (hostname == null) {
                 throw new Exception("Must specify the '"
@@ -77,16 +78,15 @@ public class HelloOctaneSdk {
     }
 
     private static class ReportTags implements TagReportListener {
+
         public void onTagReported(ImpinjReader impinjReader, TagReport tagReport) {
             List<Tag> tags = tagReport.getTags();
             for (Tag t : tags) {
 
                 String epc = t.getEpc().toString();
-                System.out.println(epc);
+                System.out.print(epc);
 
             }
         }
     }
-
-
 }
