@@ -7,11 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef5718d0-677f-4523-8adb-b5aa0e4c1a1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/impinja_jar/Octane.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/impinja_jar/Octane.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/impinja_jar/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/impinja_jar/command.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk$ReportTags.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk$ReportTags.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Octane/samples/com/example/sdksamples/HelloOctaneSdk.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,8 +22,8 @@
       <file leaf-file-name="HelloOctaneSdk.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="981">
+              <caret line="89" column="5" lean-forward="true" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -265,12 +260,12 @@
       <workItem from="1531192541775" duration="651000" />
       <workItem from="1531252858518" duration="3287000" />
       <workItem from="1531257448034" duration="494000" />
-      <workItem from="1531258098007" duration="353000" />
+      <workItem from="1531258098007" duration="4068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30315000" />
+    <option name="totallyTimeSpent" value="34030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="0" width="1080" height="1920" extended-state="6" />
@@ -290,7 +285,7 @@
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3433269" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15473887" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="0" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
@@ -468,8 +463,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/samples/com/example/sdksamples/HelloOctaneSdk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="981">
+          <caret line="89" column="5" lean-forward="true" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

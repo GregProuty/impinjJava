@@ -17,7 +17,6 @@ public class HelloOctaneSdk {
             System.out.println(Arrays.toString(args));
             String hostname = args[0];
 
-
             if (hostname == null) {
                 throw new Exception("Must specify the '"
                         + hostname + "' property");
@@ -81,17 +80,16 @@ public class HelloOctaneSdk {
         }
     }
 
-    public static ReportMode reportModeMap(String str) {
+    private static ReportMode reportModeMap(String str) {
         Map map=new HashMap();
         map.put("WaitForQuery", ReportMode.WaitForQuery);
         map.put("Individual", ReportMode.Individual);
         map.put("BatchAfterStop", ReportMode.BatchAfterStop);
 
-        ReportMode val = (ReportMode)map.get(str);
-        return val;
+        return (ReportMode)map.get(str);
     }
 
-    public static ReaderMode readerModeMap(String str) {
+    private static ReaderMode readerModeMap(String str) {
         Map map= new HashMap();
         map.put("AutoSetDenseReader", ReaderMode.AutoSetDenseReader);
         map.put("AutoSetDenseReaderDeepScan", ReaderMode.AutoSetDenseReaderDeepScan);
@@ -104,22 +102,17 @@ public class HelloOctaneSdk {
         map.put("MaxMiller", ReaderMode.MaxMiller);
         map.put("MaxThroughput", ReaderMode.MaxThroughput);
 
-        ReaderMode val = (ReaderMode)map.get(str);
-        return val;
+        return (ReaderMode)map.get(str);
     }
-
 
     private static class ReportTags implements TagReportListener {
 
         public void onTagReported(ImpinjReader impinjReader, TagReport tagReport) {
             List<Tag> tags = tagReport.getTags();
             for (Tag t : tags) {
-
                 String epc = t.getEpc().toString();
                 System.out.print(epc);
-
             }
         }
     }
-
 }
